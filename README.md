@@ -1,1 +1,2 @@
 # 3SIA-ExemploGIT-2024
+# Uso de GITHUB, GIT DESKTOP e GIT BASH com GIT FLOW
